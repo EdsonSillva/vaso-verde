@@ -1,0 +1,13 @@
+{
+    "AVR.source.compiler": "C:\\Users\\edson\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\4.8.3-2014q1\\bin\\arm-none-eabi-gdb.exe",
+    "AVR.programmer.tool": "C:\\Users\\edson\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\4.8.3-2014q1\\bin\\arm-none-eabi-gdb.exe",
+    "AVR.programmer.definitions": "c:\\Users\\edson\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\4.8.3-2014q1\\bin\\arm-none-eabi-g++.exe",
+    "AVR.source.libraries": [
+        "c:\\Users\\edson\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\4.8.3-2014q1\\lib\\gcc\\arm-none-eabi\\4.8.3"
+    ],
+    "files.associations": {
+        "*.cpp": "cpp",
+        "interrupt.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

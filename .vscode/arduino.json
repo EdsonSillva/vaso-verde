@@ -1,0 +1,8 @@
+{
+    "sketch": "VasoVerde.ino",
+    "output": "build",
+    "board": "arduino:avr:nano",
+    "port": "COM7",
+    "programmer": "arduino:avrisp",
+    "configuration": "cpu=atmega328old"
+}
