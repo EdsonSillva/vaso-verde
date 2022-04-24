@@ -1,0 +1,3 @@
+# vaso-verde
+
+Projeto para controlar a irrigação de vasos de plantas...
